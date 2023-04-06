@@ -1,6 +1,6 @@
-# Excalibur Startproject 2023
+# Javascript Startproject 2023
 
-![fishes](./src/images/preview.png)
+Oefening Modern Web Development
 
 - Klik op USE THIS TEMPLATE. Kies als owner jouw eigen github account. 
 - Geef het project een coole naam en check dat dit startproject nu in je eigen github staat.
