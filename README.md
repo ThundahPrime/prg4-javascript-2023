@@ -1,6 +1,6 @@
 # Javascript Startproject 2023
 
-Oefening Modern Web Development
+Oefening week 1: Modern Web Development
 
 - Klik op USE THIS TEMPLATE. Kies als owner jouw eigen github account. 
 - Geef het project een coole naam en check dat dit startproject nu in je eigen github staat.
