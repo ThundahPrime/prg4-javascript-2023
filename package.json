@@ -1,14 +1,13 @@
 {
-  "name": "startproject",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build --outDir=docs --base=/github-projectnaam/",
-    "preview": "vite preview --outDir=docs --base=/jouw/lokale/werkmap/docs/"
-  },
-  "devDependencies": {
-    "vite": "^4.2.0"
-  }
+    "name": "startproject",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build --outDir=docs --base=/het/pad/naar/jouw/project/dist/"
+    },
+    "devDependencies": {
+        "vite": "^4.2.0"
+    }
 }
