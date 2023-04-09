@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build --outDir=docs --base=/het/pad/naar/jouw/project/dist/"
+        "build": "vite build --outDir=docs --base='./'"
     },
     "devDependencies": {
         "vite": "^4.2.0"
